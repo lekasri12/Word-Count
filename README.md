@@ -26,7 +26,7 @@ Run the program and display the results
 #Developed by : G LEKASRI
 #Register number : 212223100025
 count=0
-with open("story.txt","r") as f1:
+with open("9exp.txt","r") as f1:
     for i in f1:
         word=i.split()
         count += len(word)
@@ -34,8 +34,10 @@ print("The number of words are in the file is ",count)
 ```
 ### OUTPUT:
 
-![Screenshot 2024-10-16 081507](https://github.com/user-attachments/assets/7c8dfcb4-647f-4a7d-a641-52112a08a35c)
-![Screenshot 2024-10-16 081527](https://github.com/user-attachments/assets/9b6eb650-6d92-4b5d-bca4-5faff5f966f8)
+![Screenshot 2024-10-16 141852](https://github.com/user-attachments/assets/d2619374-3604-40a3-b377-1747efb6dd18)
+
+![Screenshot 2024-10-16 141934](https://github.com/user-attachments/assets/11d51aef-7e14-427b-aa5c-8fc439d9255c)
+
 
 
 ## RESULT:
