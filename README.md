@@ -1,5 +1,5 @@
-# DATE
 # EX-09 Word-Count
+# DATE
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
